@@ -1,4 +1,5 @@
 ## Introdução
+
 Este projeto reflete um dos desafios realizados como parte de um processo seletivo para uma empresa na cidade de Salvador-BA.
 
 Buscou-se atender os requisitos solicitados, além de ter sido adicionado conhecimentos como concernentes a gestão de projetos, gerência de configuração, entre outros.
@@ -11,6 +12,7 @@ Buscou-se atender os requisitos solicitados, além de ter sido adicionado conhec
 
 
 ## Cenário
+
 Você trabalha em um site de notícias de grande importância para sua cidade. O editor do site decidiu que chegou a hora de implementar uma nova funcionalidade que permita que os usuários enviem as notícias da região onde moram para contribuir com o site.
 
 Sua função é programar uma pagina de “Cadastro de Notícia”, onde o usuário irá preencher alguns campos e fazer upload da imagem da notícia.
@@ -19,12 +21,14 @@ Após o cadastramento correto, o usuário deve ser redirecionado para uma págin
 
 
 ## Especificações
+
 A documentação deste projeto encontram-se dividida em:
 
 1. [Cadastro de Notícia][CadastroNoticias]
 2. [Resumo de Envio da Notícia][ResumoNoticias]
 
 ## Observação
+
 1. O problema foi resolvido utilizando plataforma web, considerando as tecnologias básicas como HTML, CSS e Javascript, observando as boas práticas de desenvolvimento web;
 2. O código “server-side” foi desenvolvido obrigatoriamente em ASP.NET MVC e seguindo convenções REST (preferencialmente);
 3. O Layout/Design da página web não era o principal fator de analise para este problema, mas isso não significava que devê-se fazer uma página sem quaisquer critérios para uma boa apresentação visual;
@@ -33,6 +37,7 @@ A documentação deste projeto encontram-se dividida em:
 
 
 ## Recursos utilizados no desenvolvimento da aplicação:
+
 |Recurso                                   |Documento                         |Download          |
 |------------------------------------------|----------------------------------|------------------|
 |Visual Studio 2017                        |[Guia][GuiaVS2017]                |[IDE][IDEVS2017]  |
@@ -46,10 +51,13 @@ A documentação deste projeto encontram-se dividida em:
 
 
 ## Andamento do Projeto
-Para se ter uma ideia do andamento do projeto [clique aqui][ProjetoInnovt] e tenha acesso ao **Quadro Kanban** para ver as tasks.
+
+Para se ter uma ideia do andamento do projeto [clique aqui][ProjetoInnovt] e tenha acesso ao **Quadro Kanban** para ver as *Tasks*.
+
 
 ## Ainda tem perguntas ou sugestão de melhoria?
-Sinta-se à vontade em abrir um [issue][DefeitoInnovt].
+
+Sinta-se à vontade em abrir um [issue][DefeitoInnovt] ou [Pull Request][PullRequest].
 
 
 
@@ -62,7 +70,7 @@ Sinta-se à vontade em abrir um [issue][DefeitoInnovt].
 
 
 
-[//]: # (Links de referências para os requisitos do solicitado)
+[//]: # (Links de referências para os requisitos do sistema)
 
 [CadastroNoticias]: <https://github.com/alexandredorea/Innovt/blob/master/Documentation/Especification/01%20-%20Pagina%20de%20cadastro%20de%20noticia.md>
 [ResumoNoticias]: <https://github.com/alexandredorea/Innovt/blob/master/Documentation/Especification/02%20-%20Pagina%20de%20resumo%20do%20envio%20da%20noticia.md>
@@ -93,3 +101,4 @@ Sinta-se à vontade em abrir um [issue][DefeitoInnovt].
 [//]: # (Links de referências aos problemas neste projeto)
 
 [DefeitoInnovt]: <https://github.com/alexandredorea/Innovt/issues>
+[PullRequest]: <https://github.com/alexandredorea/Innovt/pulls>
